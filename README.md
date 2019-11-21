@@ -6,6 +6,7 @@ The latest malicious sample of LSDMiner uses DNS TXT as it's CC tunnel. It deliv
 Related blog post:
 
 1. https://www.anomali.com/blog/illicit-cryptomining-threat-actor-rocke-changes-tactics-now-more-difficult-to-detect
+2. [逆向解密 LSDMiner 新样本利用 DNS TXT 通道传输的数据](https://www.anquanke.com/post/id/193116)
 
 **Usage**:
 ![](aes_decrypt.png)
